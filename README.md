@@ -1,1 +1,1 @@
-# ASP.NET.Core.DataTableInitializer
+# .NET Core Tutorials
